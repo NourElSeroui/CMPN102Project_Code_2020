@@ -1,0 +1,12 @@
+Game is Draw
+KTS	ID	FD	KD	LT
+23	1	2	20	22
+22	1	1	19	20
+22	3	1	9	10
+6	2	0	2	2
+.................................................
+.................................................
+Castle Total Damage =0.201601 
+Total Enemies = 4
+Average First-Shot Delay =1
+Average Kill Delay =12.5
